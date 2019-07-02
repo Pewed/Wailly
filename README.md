@@ -1,7 +1,7 @@
 # Wailly-Pewed
 le bot "Wailly" du discord d'entraide psychologique "Pewed" (https://discord.gg/9ftBrfh)
 
-#Installation
+# Installation
 
 - Installer NodeJS sur votre ordinateur
 
@@ -15,7 +15,7 @@ le bot "Wailly" du discord d'entraide psychologique "Pewed" (https://discord.gg/
 
 - Faite la commande `node main.js` pour lancer le bot
 
-#Développement
+# Développement
 Il vous faut avoir des connaissances en Javascript et la partie Serveur de NodeJS ([Tutoriel Javascript par Grafikart](https://www.grafikart.fr/formations/debuter-javascript). Il vous faut aussi un compte Github, si vous ne savez pas comment utiliser github/git, envoyé moi en privé sur discord le ZIP contenant le code avec ce que vous avez modifié.
 
 - Ouvrer votre logiciel de développement
