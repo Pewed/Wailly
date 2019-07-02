@@ -26,5 +26,10 @@ Il vous faut avoir des connaissances en Javascript et la partie Serveur de NodeJ
 
 - Voilà, vous pouvez commencer 
 
+# Suggestions et Bugs
+Si vous avez un compte Github: créer une issue
+
+Si vous n'avez pas de comtpe Github: envoyé moi un mp discord (WeeskyBDW#6172).
+
 
 Si vous avez besoin d'aide sur le développement ou l'installation du bot, vous pouvez m'envoyer un message privé sur discord (WeeskyBDW#6172).
