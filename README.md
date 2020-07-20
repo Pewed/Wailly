@@ -1,5 +1,5 @@
 # Wailly-Pewed
-le bot "Wailly" du discord d'entraide psychologique "Pewed" (https://discord.gg/9ftBrfh)
+le bot "Wailly" du discord d'entraide "Pewed" (https://discord.gg/9ftBrfh)
 
 # Installation
 
